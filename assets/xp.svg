@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="70" viewBox="0 0 800 70">
+<style>
+.fill{animation:grow 3.5s ease-out;transform-origin:140px 0;transform:scaleX(.72)}
+@keyframes grow{from{transform:scaleX(0)}}
+</style>
+<text x="400" y="34" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" font-weight="700" fill="#80ff20" stroke="#0a090c" stroke-width="4" paint-order="stroke">Lv. ∞</text>
+<rect x="138" y="42" width="524" height="16" fill="#0a090c"/>
+<rect x="140" y="44" width="520" height="12" fill="#2a2a2a"/>
+<rect class="fill" x="140" y="44" width="520" height="12" fill="#80ff20"/>
+<rect class="fill" x="140" y="44" width="520" height="3" fill="#c8ff8a"/>
+<rect x="168.9" y="44" width="2" height="12" fill="#0a090c"/><rect x="197.8" y="44" width="2" height="12" fill="#0a090c"/><rect x="226.7" y="44" width="2" height="12" fill="#0a090c"/><rect x="255.6" y="44" width="2" height="12" fill="#0a090c"/><rect x="284.4" y="44" width="2" height="12" fill="#0a090c"/><rect x="313.3" y="44" width="2" height="12" fill="#0a090c"/><rect x="342.2" y="44" width="2" height="12" fill="#0a090c"/><rect x="371.1" y="44" width="2" height="12" fill="#0a090c"/><rect x="400.0" y="44" width="2" height="12" fill="#0a090c"/><rect x="428.9" y="44" width="2" height="12" fill="#0a090c"/><rect x="457.8" y="44" width="2" height="12" fill="#0a090c"/><rect x="486.7" y="44" width="2" height="12" fill="#0a090c"/><rect x="515.6" y="44" width="2" height="12" fill="#0a090c"/><rect x="544.4" y="44" width="2" height="12" fill="#0a090c"/><rect x="573.3" y="44" width="2" height="12" fill="#0a090c"/><rect x="602.2" y="44" width="2" height="12" fill="#0a090c"/><rect x="631.1" y="44" width="2" height="12" fill="#0a090c"/>
+</svg>

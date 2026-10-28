@@ -1,18 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="ULTRON" width="100%">
+</p>
 
-<!--
-**ultronLegacyy/ultronLegacyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><i>"There are no strings on me."</i></p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **Daniel** — a.k.a. **ultron**.
 
-Hi! My name is Daniel 
+I'm into **cybersecurity** and staying up to date with how systems break (and how to protect them).
+I like **automating** everything that can be automated and solving problems with clean, practical code.
+
+```yaml
+/summon ultron
+  name:      Daniel
+  class:     Security Enthusiast · Automation Builder
+  crafting:  tools in Go & Python, web apps in PHP
+  mining:    cybersecurity, Linux, new tech
+  objective: automate the boring, secure the rest
+```
+
+### ⛏ Inventory
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,php,html,mysql,linux,bash,git&theme=dark" alt="Python, Go, PHP, HTML, MySQL, Linux, Bash, Git">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/xp.svg" alt="XP bar" width="80%">
+</p>
